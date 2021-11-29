@@ -2,7 +2,7 @@
 <img width="100%" height = "300px" src="https://w.wallhaven.cc/full/y8/wallhaven-y85ojk.png" alt="cover" />
 </div>
 
-<h2 align="center">Hi I'm Ian, a QA Automation Tester</h3>
+<h2 align="center">Hi devs! I'm Ian, a Tester interested in technology</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iandav&label=Profile%20views&color=0e75b6&style=flat" alt="iandav" /> </p>
 
