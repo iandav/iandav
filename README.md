@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on: **QA Automation with Selenium framework.**
 
-- 🌱 I’m currently learning: **Python, algorithms & data structures.**
+- 🌱 I’m currently learning: **Java, algorithms & data structures.**
 
 - 🚀 I’m looking to collaborate on: **Open source projects or coding challenges.**
 
