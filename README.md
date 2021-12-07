@@ -1,6 +1,14 @@
 ## Welcome
 <p>I'm Ian, a dedicated QA Automation Tester focused on web applications. </p>
 
+
+- 🌱 I’m currently learning Java.
+- 🔭 I’m looking to collaborate on open source projects.
+- 🤔 I’m looking for help with blockchain technology concepts.
+- 💬 Ask me about anything.
+- ⚡ Fun fact: I'm comfortable with Linux distributions.
+
+
 ## Technologies & Testing tools
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
