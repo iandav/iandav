@@ -6,7 +6,7 @@
 - 🔭 I’m looking to collaborate on open source projects.
 - 🤔 I’m looking for help with blockchain technology concepts.
 - 💬 Ask me about anything.
-- ⚡ Fun fact: I'm comfortable with Linux distributions.
+- ⚡ Fun fact: I prefer Linux distributions.
 
 
 ## Technologies & Testing tools
