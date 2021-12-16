@@ -2,7 +2,7 @@
 <p>I'm Ian, a dedicated QA Automation Tester focused on web applications. </p>
 
 
-- 🌱 I’m currently learning Algorithms & Data Structures in JavaScript.
+- 🌱 I’m currently learning Algorithms and Data Structures in JavaScript.
 - 🔭 I’m looking to collaborate on open-source software projects.
 - 💬 Ask me about anything related to tech.
 - ⚡ Fun fact: I prefer Linux distributions.
