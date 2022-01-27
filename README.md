@@ -1,11 +1,13 @@
+<img src="https://w.wallhaven.cc/full/qd/wallhaven-qdqmwq.jpg" width="80%">
+
 ## Welcome
-<p>I'm Ian, a dedicated QA Automation Tester focused on web applications. </p>
+<p>I'm Ian, a dedicated QA Automation Tester focused on performing <code>automation</code>,<code>performance</code>,<code>API</code> testing in web applications. I'm also studying cybersecurity to get started in security testing and feed my curiosity.</p>
 
 
-- 🌱 I’m currently learning Algorithms and Data Structures in JavaScript.
-- 🔭 I’m looking to collaborate on open-source software projects.
-- 💬 Ask me about anything related to tech.
-- ⚡ Fun fact: I prefer Linux distributions.
+- 🌱 Currently learning Algorithms and Data Structures in JavaScript.
+- 🔭 Looking to collaborate on open-source software projects.
+- 💬 Ask me about anything related to technology.
+- ⚡ Preference to Linux distributions.
 
 
 ## Technologies & Testing tools
@@ -13,17 +15,21 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Chai](https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white)
+![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
 ## Connect with me
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iandav)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/iandav/)
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/iandav)
+
+## Stats
+
+![Ian's stats](https://github-readme-stats.vercel.app/api?username=iandav&theme=maroongold&show_icons=true)
 
 
