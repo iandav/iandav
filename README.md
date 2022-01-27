@@ -1,5 +1,3 @@
-<img src="https://w.wallhaven.cc/full/qd/wallhaven-qdqmwq.jpg" width="80%">
-
 ## Welcome
 <p>I'm Ian, a dedicated QA Automation Tester focused on performing <code>automation</code>,<code>performance</code>,<code>API</code> testing in web applications. I'm also studying cybersecurity to get started in security testing and feed my curiosity.</p>
 
@@ -27,9 +25,3 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iandav)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/iandav/)
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/iandav)
-
-## Stats
-
-![Ian's stats](https://github-readme-stats.vercel.app/api?username=iandav&theme=maroongold&show_icons=true)
-
-
