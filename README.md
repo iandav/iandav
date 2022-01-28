@@ -1,5 +1,5 @@
 ## Welcome
-<p>I'm Ian, a dedicated QA Automation Tester focused on performing <code>automation</code>,<code>performance</code>,<code>API</code> testing in web applications. I'm also studying cybersecurity to get started in security testing and feed my curiosity.</p>
+<p>I'm Ian, a dedicated QA Automation Tester focused on performing <code>automation</code>,<code>performance</code>,<code>API</code> testing in web applications.</p>
 
 
 - 🌱 Currently learning Algorithms and Data Structures in JavaScript.
