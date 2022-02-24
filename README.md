@@ -2,7 +2,7 @@
 <p>I'm Ian, a dedicated QA Automation Tester focused on performing <code>automation</code>,<code>performance</code>,<code>API</code> testing in web applications.</p>
 
 
-- 🌱 Currently learning Algorithms and Data Structures in Python + Selenium.
+- 🌱 Currently learning Algorithms and Data Structures in JavaScript.
 - 🔭 Looking to collaborate on open-source software projects.
 - 💬 Ask me about anything related to technology.
 - ⚡ Preference to Linux distributions.
