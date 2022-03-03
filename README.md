@@ -7,6 +7,7 @@
 - 💬 Ask me about anything related to technology.
 - ⚡ Preference to Linux distributions.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iandav&layout=compact&theme=maroongold)](https://github.com/iandav/github-readme-stats)
 
 ## Technologies & Testing tools
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -22,6 +23,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 
 ## Connect with me
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iandav)
