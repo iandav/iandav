@@ -1,4 +1,4 @@
-## ✧･ﾟ: *✧･ﾟ:* Welcome *:･ﾟ✧*:･ﾟ✧
+## Welcome
 <p>I'm Ian, a dedicated QA Automation Tester focused on performing <code>automation</code>,<code>performance</code>,<code>API</code> testing in web applications.</p>
 
 
