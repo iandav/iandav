@@ -2,7 +2,7 @@
 <p>I'm Ian, a dedicated QA Automation Tester focused on performing <code>automation</code>,<code>performance</code>,<code>API</code> testing in web applications.</p>
 
 
-- 🌱 Currently learning Algorithms & Data Structures and Selenium in Python.
+- 🌱 Currently learning Operating Systems.
 - 🔭 Looking to collaborate on open-source software projects.
 - 💬 Ask me about anything related to technology.
 - ⚡ Preference to Linux distributions.
@@ -17,11 +17,11 @@
 ![Chai](https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white)
 ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 
 ## Connect with me
