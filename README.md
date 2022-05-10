@@ -3,7 +3,7 @@ I'm Ian, a dedicated QA Automation Tester focused on performing <code>automation
 
 
 - 🌱 Currently learning Operating Systems.
-- 🔭 Collaborating on open-source web projects with my team.
+- 🔭 Collaborating on open-source projects with my team.
 - 💬 Ask me about anything related to technology.
 - ⚡ Preference to Linux distributions.
 
