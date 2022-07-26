@@ -1,9 +1,9 @@
 ## Welcome
-I'm Ian, a dedicated QA Automation Tester focused on performing <code>automation</code>,<code>performance</code>,<code>API</code> testing in software applications.
+I'm Ian, a dedicated QA Automation Tester focused on performing <code>functional</code>,<code>performance</code>,<code>API</code> testing in software applications.
 
 
-- 🌱 Currently learning Operating Systems.
-- 🚀 Collaborating on open-source projects with my team.
+- 🌱 Currently learning [Godot Game Engine](https://godotengine.org/) and GDScript.
+- 🚀 Collaborating on open-source projects with [Tactical Devs](https://iandav.github.io/tactical-devs/).
 - 💬 Ask me about anything related to technology.
 - ⚡ Preference to Linux distributions.
 
