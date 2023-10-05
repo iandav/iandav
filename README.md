@@ -2,7 +2,7 @@
 I'm Ian, a dedicated QA Automation Tester focused on performing <code>functional</code>,<code>performance</code>,<code>API</code> testing in software applications.
 
 
-- 🌱 Currently learning C++ Game Development with [Unreal Engine](https://www.unrealengine.com/en-US) and C++.
+- 🌱 Currently learning C++ Game Development with [Unreal Engine](https://www.unrealengine.com/en-US).
 - 🚀 Collaborating on open-source projects with [Tactical Devs](https://iandav.github.io/tactical-devs/).
 - 💬 Ask me about anything related to technology.
 - ⚡ Preference to Linux distributions.
